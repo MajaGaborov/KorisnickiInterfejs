@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<SpisakBazaPodataka>
+  <BazaPodataka>
+      <OpisBaze>samostalna tema</OpisBaze>
+    <NazivKonekcije>SEMINARSKI_DIS2018samostalnatema</NazivKonekcije>
+    <ModalitetRada>full</ModalitetRada>
+  </BazaPodataka>
+      <BazaPodataka>
+	  <OpisBaze>tema sa projekta</OpisBaze>
+    <NazivKonekcije>SEMINARSKI_DIS2018temasaprojekta</NazivKonekcije>
+    <ModalitetRada>full</ModalitetRada>
+ </BazaPodataka>
+  <BazaPodataka>
+  <OpisBaze>Osnovni</OpisBaze>
+  <NazivKonekcije>SEMINARSKI_DIS2018Osnovni</NazivKonekcije>
+  <ModalitetRada>Osnovni</ModalitetRada>
+  </BazaPodataka>
+  <BazaPodataka>
+    <OpisBaze>Dodatni</OpisBaze>
+    <NazivKonekcije>SEMINARSKI_DIS2018Dodatni</NazivKonekcije>
+    <ModalitetRada>Dodatni</ModalitetRada>
+  </BazaPodataka>
+
+</SpisakBazaPodataka>
