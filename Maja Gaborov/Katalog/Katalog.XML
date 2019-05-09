@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<SpisakBazaPodataka>
+  <BazaPodataka>
+      <OpisBaze>Pevanje</OpisBaze>
+    <NazivKonekcije>SEMINARSKIOsnovnaBazaPevanje</NazivKonekcije>
+    <ModalitetRada>full</ModalitetRada>
+  </BazaPodataka>
+      <BazaPodataka>
+	  <OpisBaze>Sviranje</OpisBaze>
+    <NazivKonekcije>SEMINARSKIOsnovnaBazaSviranje</NazivKonekcije>
+    <ModalitetRada>full</ModalitetRada>
+ </BazaPodataka>
+  <BazaPodataka>
+  <OpisBaze>osnovni</OpisBaze>
+  <NazivKonekcije>SEMINARSKIOsnovnaBazaOsnovni</NazivKonekcije>
+  <ModalitetRada>Osnovni</ModalitetRada>
+  </BazaPodataka>
+  <BazaPodataka>
+    <OpisBaze>Dodatni</OpisBaze>
+    <NazivKonekcije>SEMINARSKIOsnovnaBazaDodatni</NazivKonekcije>
+    <ModalitetRada>Dodatni</ModalitetRada>
+  </BazaPodataka>
+
+</SpisakBazaPodataka>
